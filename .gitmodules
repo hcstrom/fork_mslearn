@@ -1,0 +1,3 @@
+[submodule "mslearn-use-git-from-vs-code"]
+	path = mslearn-use-git-from-vs-code
+	url = https://github.com/hcstrom/
